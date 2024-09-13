@@ -1,7 +1,7 @@
 package com.vipsfoodcourt.userinfo.controller;
 
 
-import com.vipsfoodcourt.userinfo.UserService.UserService;
+import com.vipsfoodcourt.userinfo.service.UserService;
 
 import com.vipsfoodcourt.userinfo.dto.UserDTO;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.vipsfoodcourt.userinfo.UserService;
+package com.vipsfoodcourt.userinfo.service;
 
 
 import com.vipsfoodcourt.userinfo.dto.UserDTO;
